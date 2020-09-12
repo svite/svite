@@ -32,7 +32,7 @@
     "hash-sum": "^2.0.0",
     "isomorphic-unfetch": "^3.0.0",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "polka": "^0.5.2",
     "rimraf": "^3.0.0",
     "rollup": "^1.27.13",
